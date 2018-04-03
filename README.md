@@ -40,7 +40,7 @@ Rinse and repeat.
 * [dotenv](https://github.com/bkeepers/dotenv "dotenv") - to manage hidden variables (i.e. URL, proxy, etc.)
 * [watir](https://github.com/watir/watir "watir") - to navigate the web page of the e-commerce site programmatically
 * [colorize](https://github.com/fazibear/colorize/ "colorize") - I just really like printing out pretty colors to the console to view the status of the script
-* [pry](https://github.com/pry/pry "pry") - Just easier to debug with
+* [pry](https://github.com/pry/pry "pry") - just easier to debug with
 
 ## Additional notes
 I had some trouble with the script timing out randomly in different places, so
